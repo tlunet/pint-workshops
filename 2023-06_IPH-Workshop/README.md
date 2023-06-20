@@ -14,7 +14,7 @@ Several (free and open source) tools are used during the sessions :
 - **VSCode** : a multi-language editor, that provide nice integration for Jupyter Notebooks, that you can [install on any system ...](https://code.visualstudio.com/download)
 
 
-## Code for Exercise Sessions
+## Codes and Notebooks for Exercise Sessions
 
 1. [Tuesday June 20](./s1/)
 
