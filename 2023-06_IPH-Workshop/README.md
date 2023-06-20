@@ -10,8 +10,8 @@ The exercise sessions consist on small demos with Python code and Jupyter Notebo
 
 Several (free and open source) tools are used during the sessions :
 
-- Python : you can install it on your own computed using [Anaconda](https://www.anaconda.com/download), which comes with many library ([Matplotlib](https://matplotlib.org/), [Numpy](https://numpy.org/), ...) and even some Interactive Development Environment (IDE) like [Spyder](https://www.spyder-ide.org/).
-- VSCode : a multi-language editor, that provide nice integration for Jupyter Notebooks, that you can [install on any system ...](https://code.visualstudio.com/download)
+- **Python** : you can install it on your own computed using [Anaconda](https://www.anaconda.com/download), which comes with many library ([Matplotlib](https://matplotlib.org/), [Numpy](https://numpy.org/), ...) and even some Interactive Development Environment (IDE) like [Spyder](https://www.spyder-ide.org/).
+- **VSCode** : a multi-language editor, that provide nice integration for Jupyter Notebooks, that you can [install on any system ...](https://code.visualstudio.com/download)
 
 
 ## Code for Exercise Sessions
