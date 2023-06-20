@@ -7,8 +7,6 @@ Module containing functions to deal with the Lorenz system
 """
 import numpy as np
 import matplotlib.pyplot as plt
-import mpl_toolkits.mplot3d.axes3d as p3
-import matplotlib.animation as animation
 
 
 def forwardEuler(f, t0, tEnd, u0, nStep):
