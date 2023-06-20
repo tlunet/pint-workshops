@@ -1,7 +1,7 @@
-# Source Code for Course on Parallel-in-Time Methods
+# Source Code for Courses on Parallel-in-Time Methods
 
 
-This repository contains the source code used during the advanced coursed on Parallel-in-Time method taught by [Prof. M. Gander](https://www.unige.ch/~gander/).
+This repository contains the source code used during the advanced courses on Parallel-in-Time methods taught by [Prof. M. Gander](https://www.unige.ch/~gander/).
 
 ## CMBS Workshop
 
