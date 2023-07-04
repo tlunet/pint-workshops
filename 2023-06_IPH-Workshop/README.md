@@ -17,6 +17,8 @@ Several (free and open source) tools are used during the sessions :
 ## Codes and Notebooks for Exercise Sessions
 
 1. [Tuesday June 20](./s1/)
+2. [Tuesday June 27](./s2/) (reported to Tuesday July 4)
+3. [Tuesday July 4](./s3)
 
 
 
