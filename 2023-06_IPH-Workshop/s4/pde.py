@@ -36,6 +36,24 @@ def finDiffMatrixD1U1(J, L):
     return A
 
 
+def finDiffMatrixD1C2(J, L):
+    """Compute the finite-difference matrix for the first derivative
+    in space (D1) using second order centered finite differences (C2),
+    and periodic boundary conditions.
+
+    Parameters
+    ----------
+    J : int
+        Number of mesh point in space (excluding right point)
+    L : float
+        Length of the domain (including right point)
+    """
+    h = L/J
+    A = spl.circulant([0, -1.]+(J-3)*[0.] + [1.])
+    A /= 2*h
+    return A
+
+
 def backwardEulerLin(A, u0, b, tBeg, tEnd, N):
     """
     Solve a linear system of ODE using Backward Euler.
